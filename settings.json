@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EnderHeavenSmp.aternos.me:33847"
+    "ip": "EnderHeavenSmp.aternos.me:33847",
     "port": 33847,
     "version": "26.2",
     "try-creative": false
